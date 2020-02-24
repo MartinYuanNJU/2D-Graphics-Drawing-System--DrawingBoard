@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/ellipse.png</file>
+        <file>picture/isosceles.png</file>
+        <file>picture/line.png</file>
+        <file>picture/palette.png</file>
+        <file>picture/polygon.png</file>
+        <file>picture/rectangle.png</file>
+        <file>picture/rightangle.png</file>
+        <file>picture/round.png</file>
+        <file>picture/clip.png</file>
+        <file>picture/pen1.png</file>
+        <file>picture/pen2.png</file>
+        <file>picture/settings.png</file>
+        <file>picture/new.png</file>
+        <file>picture/save.png</file>
+        <file>picture/saveas.png</file>
+        <file>picture/curve.png</file>
+        <file>picture/select.png</file>
+        <file>picture/delete.png</file>
+        <file>picture/rotate.png</file>
+        <file>picture/scale.png</file>
+        <file>picture/open.png</file>
+        <file>picture/clear.png</file>
+    </qresource>
+</RCC>
